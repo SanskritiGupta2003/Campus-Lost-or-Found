@@ -1,0 +1,6 @@
+{
+  "name": "FindIt - Campus Lost & Found",
+  "description": "A smart campus board where lost items meet the people who found them with intelligent match detection, interactive map, claim verification, and private contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
